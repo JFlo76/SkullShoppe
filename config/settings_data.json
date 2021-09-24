@@ -99,6 +99,7 @@
           },
           "9f651a91-faf3-41fe-ac56-c0230960a1d5": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "mobile_image": "shopify:\/\/shop_images\/Place_holder_mobil.jpg",
               "title": "Share your story",
