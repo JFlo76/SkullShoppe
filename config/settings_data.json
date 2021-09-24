@@ -121,11 +121,23 @@
               "overlay_font_color": "#ffffff",
               "overlay_color": "#323232"
             }
+          },
+          "731eda49-886a-4c04-b850-730dba7d424b": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "skull-accessories",
+              "subheading": "Skull Stands",
+              "overlay-btn-text": "Shop now",
+              "show-gradient-overlay": true,
+              "overlay_font_color": "#ffffff",
+              "overlay_color": "#323232"
+            }
           }
         },
         "block_order": [
           "collection-0",
-          "collection-1"
+          "collection-1",
+          "731eda49-886a-4c04-b850-730dba7d424b"
         ],
         "settings": {
           "colors": "white",
