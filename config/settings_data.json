@@ -67,6 +67,7 @@
         "blocks": {
           "slideshow-0": {
             "type": "image",
+            "disabled": true,
             "settings": {
               "title": "Share your story",
               "text": "Here's your chance to make a great first impression",
@@ -79,10 +80,27 @@
               "captionHorizontal": "right",
               "captionAlignment": "right"
             }
+          },
+          "171f5a0e-8a3f-4d3b-a325-eaf61d3afc93": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Place_holder.jpg",
+              "title": "",
+              "text": "",
+              "button_label": "",
+              "button_link": "",
+              "caption-background": "rgba(0,0,0,0)",
+              "caption-text": "#ffffff",
+              "button-text": "#ffffff",
+              "button-background": "#000000",
+              "captionHorizontal": "left",
+              "captionAlignment": "left"
+            }
           }
         },
         "block_order": [
-          "slideshow-0"
+          "slideshow-0",
+          "171f5a0e-8a3f-4d3b-a325-eaf61d3afc93"
         ],
         "settings": {
           "slider-animation": "slide",
