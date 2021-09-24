@@ -132,12 +132,24 @@
               "overlay_font_color": "#ffffff",
               "overlay_color": "#323232"
             }
+          },
+          "d714fc1e-e6e7-435a-9c16-d6679cb53332": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "human-skull-replicas-1",
+              "subheading": "Museum Quality",
+              "overlay-btn-text": "Shop now",
+              "show-gradient-overlay": true,
+              "overlay_font_color": "#ffffff",
+              "overlay_color": "#323232"
+            }
           }
         },
         "block_order": [
           "collection-0",
           "collection-1",
-          "731eda49-886a-4c04-b850-730dba7d424b"
+          "731eda49-886a-4c04-b850-730dba7d424b",
+          "d714fc1e-e6e7-435a-9c16-d6679cb53332"
         ],
         "settings": {
           "colors": "white",
