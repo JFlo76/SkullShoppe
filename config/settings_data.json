@@ -175,6 +175,7 @@
             "type": "featured_collection",
             "settings": {
               "collection": "human-skull-replicas-1",
+              "collection_img": "shopify:\/\/shop_images\/Place_holder_mobil.jpg",
               "subheading": "Museum Quality",
               "overlay-btn-text": "Shop now",
               "show-gradient-overlay": true,
@@ -646,9 +647,25 @@
       "template--collection": {
         "type": "template--collection",
         "settings": {
+          "collection-layout": "sidebar",
+          "show-collection-description": true,
           "tags_enable": false,
+          "collection-show-sort-by": true,
+          "sort-by-manual": true,
+          "sort-by-price-ascending": true,
+          "sort-by-price-descending": true,
+          "sort-by-title-ascending": true,
+          "sort-by-title-descending": true,
+          "sort-by-created-ascending": true,
+          "sort-by-created-descending": true,
+          "sort-by-best-selling": true,
           "desktop-products-per-row": 2,
-          "hover-effect": true
+          "tablet-products-per-row": 2,
+          "mobile-products-per-row": 1,
+          "collection-products-per-page": 4,
+          "pagination_options": "pagination_load_more",
+          "hover-effect": true,
+          "show-vendor": false
         }
       },
       "template--collections-list": {
