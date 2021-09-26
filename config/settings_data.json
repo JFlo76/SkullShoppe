@@ -174,10 +174,10 @@
           "d714fc1e-e6e7-435a-9c16-d6679cb53332": {
             "type": "featured_collection",
             "settings": {
-              "collection": "human-skull-replicas-1",
+              "collection": "human-skull-replicas",
               "collection_img": "shopify:\/\/shop_images\/Place_holder_mobil.jpg",
               "subheading": "Museum Quality",
-              "overlay-btn-text": "Shop now",
+              "overlay-btn-text": "Shop Now",
               "show-gradient-overlay": true,
               "overlay_font_color": "#ffffff",
               "overlay_color": "#323232"
