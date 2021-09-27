@@ -160,17 +160,6 @@
               "overlay_color": "#323232"
             }
           },
-          "731eda49-886a-4c04-b850-730dba7d424b": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "skull-stands",
-              "subheading": "Skull Stands",
-              "overlay-btn-text": "Shop Now",
-              "show-gradient-overlay": true,
-              "overlay_font_color": "#ffffff",
-              "overlay_color": "#323232"
-            }
-          },
           "d714fc1e-e6e7-435a-9c16-d6679cb53332": {
             "type": "featured_collection",
             "settings": {
@@ -182,13 +171,24 @@
               "overlay_font_color": "#ffffff",
               "overlay_color": "#323232"
             }
+          },
+          "731eda49-886a-4c04-b850-730dba7d424b": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "skull-stands",
+              "subheading": "Skull Stands",
+              "overlay-btn-text": "Shop Now",
+              "show-gradient-overlay": true,
+              "overlay_font_color": "#ffffff",
+              "overlay_color": "#323232"
+            }
           }
         },
         "block_order": [
           "collection-0",
           "collection-1",
-          "731eda49-886a-4c04-b850-730dba7d424b",
-          "d714fc1e-e6e7-435a-9c16-d6679cb53332"
+          "d714fc1e-e6e7-435a-9c16-d6679cb53332",
+          "731eda49-886a-4c04-b850-730dba7d424b"
         ],
         "settings": {
           "colors": "white",
