@@ -165,7 +165,7 @@
             "settings": {
               "collection": "skull-stands",
               "subheading": "Skull Stands",
-              "overlay-btn-text": "Shop now",
+              "overlay-btn-text": "Shop Now",
               "show-gradient-overlay": true,
               "overlay_font_color": "#ffffff",
               "overlay_color": "#323232"
@@ -591,12 +591,19 @@
               "newsletter_title": "",
               "footer_newsletter_description": ""
             }
+          },
+          "9707fd45-1568-468a-9caa-069f9778dc0f": {
+            "type": "social",
+            "settings": {
+              "social_title": "Instagram"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "footer-2"
+          "footer-2",
+          "9707fd45-1568-468a-9caa-069f9778dc0f"
         ],
         "settings": {
           "show_methods_of_payment": false,
