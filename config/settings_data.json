@@ -187,7 +187,7 @@
             "type": "featured_collection",
             "settings": {
               "collection": "home-decor",
-              "subheading": "Subheading",
+              "subheading": "Home Decor",
               "overlay-btn-text": "Shop now",
               "show-gradient-overlay": true,
               "overlay_font_color": "#ffffff",
