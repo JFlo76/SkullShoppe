@@ -182,13 +182,25 @@
               "overlay_font_color": "#ffffff",
               "overlay_color": "#323232"
             }
+          },
+          "e01396a2-5c6b-4123-a198-cdb54028aff5": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "home-decor",
+              "subheading": "Subheading",
+              "overlay-btn-text": "Shop now",
+              "show-gradient-overlay": true,
+              "overlay_font_color": "#ffffff",
+              "overlay_color": "#323232"
+            }
           }
         },
         "block_order": [
           "collection-0",
           "collection-1",
           "d714fc1e-e6e7-435a-9c16-d6679cb53332",
-          "731eda49-886a-4c04-b850-730dba7d424b"
+          "731eda49-886a-4c04-b850-730dba7d424b",
+          "e01396a2-5c6b-4123-a198-cdb54028aff5"
         ],
         "settings": {
           "colors": "white",
