@@ -572,7 +572,7 @@
         "type": "blog--blog-posts",
         "settings": {
           "colors": "white",
-          "title": "From the blog",
+          "title": "Skull Shoppe Blog",
           "richtext": "",
           "blog_show_date": true,
           "post_limit": 3
