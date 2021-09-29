@@ -284,9 +284,9 @@
         "type": "collection--featured-collection",
         "settings": {
           "colors": "white",
-          "title": "",
+          "title": "Just in time for Halloween!!!",
           "richtext": "",
-          "collection": "",
+          "collection": "home-decor",
           "grid-desktop": 4,
           "grid-tablet": 3,
           "grid-mobile": 2,
