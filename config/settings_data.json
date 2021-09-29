@@ -204,6 +204,17 @@
               "overlay_font_color": "#ffffff",
               "overlay_color": "#323232"
             }
+          },
+          "7b9e885c-e142-43b2-83b6-81b1b92938b4": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "wall-plaques",
+              "subheading": "Skeletal decorations",
+              "overlay-btn-text": "Shop now",
+              "show-gradient-overlay": true,
+              "overlay_font_color": "#ffffff",
+              "overlay_color": "#323232"
+            }
           }
         },
         "block_order": [
@@ -212,7 +223,8 @@
           "d714fc1e-e6e7-435a-9c16-d6679cb53332",
           "731eda49-886a-4c04-b850-730dba7d424b",
           "e01396a2-5c6b-4123-a198-cdb54028aff5",
-          "d63a9d30-5c56-4b83-8a4c-240aeb8388ce"
+          "d63a9d30-5c56-4b83-8a4c-240aeb8388ce",
+          "7b9e885c-e142-43b2-83b6-81b1b92938b4"
         ],
         "settings": {
           "colors": "white",
