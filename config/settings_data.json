@@ -215,6 +215,7 @@
             "type": "featured_collection",
             "settings": {
               "collection": "wall-plaques",
+              "collection_img": "shopify:\/\/shop_images\/plaque_edit.jpg",
               "subheading": "Skeletal decorations",
               "overlay-btn-text": "Shop now",
               "show-gradient-overlay": true,
