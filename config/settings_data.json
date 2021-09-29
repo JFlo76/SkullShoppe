@@ -262,6 +262,7 @@
       },
       "video--video-hero": {
         "type": "video--video-hero",
+        "disabled": true,
         "settings": {
           "url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
           "desktopHeight": "550",
@@ -297,6 +298,7 @@
       },
       "image--text-with-image-overlay-1": {
         "type": "image--image-with-text-overlay",
+        "disabled": true,
         "settings": {
           "image_height": "30vw",
           "bg_image_overlay_opacity": 0,
@@ -316,6 +318,7 @@
       },
       "image--logo-list": {
         "type": "image--logo-list",
+        "disabled": true,
         "blocks": {
           "image--logo-list-0": {
             "type": "logo_image",
@@ -398,6 +401,7 @@
       },
       "image--image-with-text-1": {
         "type": "image--image-with-text",
+        "disabled": true,
         "settings": {
           "colors": "white",
           "text_overlapping_image": true,
@@ -413,9 +417,9 @@
       "products--featured-product": {
         "type": "products--featured-product",
         "settings": {
-          "title": "Featured product",
+          "title": "Shipping Now!!!",
           "richtext": "",
-          "featured_product": "",
+          "featured_product": "lt-skull-model",
           "product_variant_style": "swatches",
           "hide_soldout_variants": false,
           "show-vendor": false,
