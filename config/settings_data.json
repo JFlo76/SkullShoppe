@@ -36,7 +36,7 @@
         "type": "announcement-bar",
         "settings": {
           "enable_announcement_bar": true,
-          "message_text": "<p>Holy shit! Skull Shoppe rulezzzz!<\/p>",
+          "message_text": "<p>Decorate your Home or Haunt<\/p>",
           "message_link": "",
           "announcement-bar--background-color": "#242424",
           "announcement-bar--text-color": "#ffffff",
