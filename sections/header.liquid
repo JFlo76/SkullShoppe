@@ -386,11 +386,11 @@ Testing Cypress integration
         {% endif %}
       </div>
 
-      <div class="site-header__wrapper__center">
+      {% comment %} <div class="site-header__wrapper__center">
         {% if section.settings.logo-placement != 'left' %}
           {{ header_logo_desktop }}
         {% endif %}
-      </div>
+      </div> {% endcomment %}
 
       <div class="site-header__wrapper__right top-links">
         {% if section.settings.logo-placement == 'left' %}
