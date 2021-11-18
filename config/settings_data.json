@@ -129,7 +129,7 @@
         ],
         "settings": {
           "slider-animation": "slide",
-          "slider-width": "full-screen",
+          "slider-width": "full-width",
           "vertical-alignment": true,
           "slider-slide-time": 5,
           "caption-heading-size": 40,
