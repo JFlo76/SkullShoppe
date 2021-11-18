@@ -362,7 +362,7 @@ Testing Cypress integration
     </div>
   {% endcapture %}
 
-  {% capture header_logo_mobile %}
+  {% comment %} {% capture header_logo_mobile %}
     <div class="site-header__logowrapper">
       <div class="site-header__logo h1 site-title" itemscope itemtype="http://schema.org/Organization">
 
@@ -372,7 +372,7 @@ Testing Cypress integration
 
       </div>
     </div>
-  {% endcapture %}
+  {% endcapture %} {% endcomment %}
 
   <header class="site-header medium--hide small--hide{% if section.settings.sticky_header %} {% endif %}{% if section.settings.logo-placement == 'above' %} logo_above{% endif %}{% if collection-overlay or homepage-overlay or list-collection-overlay or contact-overlay %} overlay-header{% endif %}{% if section.settings.dropdown_alignment == 'center' %} dropdown-alignment--center{% endif %}{% if section.settings.overlay_logo %} overlay-logo{% endif %}">
     <div class="site-header__wrapper site-header__wrapper--logo-{{ section.settings.logo-placement }} site-header__wrapper--{% if top_links != blank %}with{% else %}without{% endif %}-menu">

@@ -11042,8 +11042,7 @@ label.error {
         padding-left: 15px; }
     .site-header .site-header__wrapper .site-header__wrapper__center {
       flex: 1 0 100%;
-      align-self: center;
-      display: none; }
+      align-self: center; }
     .site-header .site-header__wrapper .site-header__wrapper__left .wetheme-dropdown.fit-current ul,
     .site-header .site-header__wrapper .site-header__wrapper__right .wetheme-dropdown.fit-current ul {
       left: auto;
