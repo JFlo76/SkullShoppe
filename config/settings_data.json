@@ -35,7 +35,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "enable_announcement_bar": true,
+          "enable_announcement_bar": false,
           "message_text": "<p>Decorate your Home or Haunt<\/p>",
           "message_link": "",
           "announcement-bar--background-color": "#242424",
