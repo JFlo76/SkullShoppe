@@ -5,6 +5,7 @@
 	padding-top: 30px;
   	background: #000;
 }
+/* Remove top/bottom padding */
 .mobile-nav-bar-wrapper {
 	padding: 0;
 }
