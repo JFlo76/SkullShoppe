@@ -9,3 +9,7 @@
 .mobile-nav-bar-wrapper {
 	padding: 0;
 }
+
+.site-header .site-header__wrapper .site-header__wrapper__right {
+	flex: 1 0 auto;
+}
