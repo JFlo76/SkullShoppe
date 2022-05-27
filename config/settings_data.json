@@ -35,7 +35,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "enable_announcement_bar": true,
+          "enable_announcement_bar": false,
           "message_text": "<p>Decorate your Home or Haunt<\/p>",
           "message_link": "",
           "announcement-bar--background-color": "#242424",
@@ -91,6 +91,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/royal_logo_2.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/mobil_test_copy.jpg",
               "title": "",
               "text": "",
               "button_label": "",
@@ -128,7 +129,7 @@
         ],
         "settings": {
           "slider-animation": "slide",
-          "slider-width": "full-screen",
+          "slider-width": "full-width",
           "vertical-alignment": true,
           "slider-slide-time": 5,
           "caption-heading-size": 40,
@@ -363,8 +364,9 @@
           "testimonials-0": {
             "type": "text",
             "settings": {
-              "testimonial_text": "<p>\"Show off incredible feedback from your customers\"<\/p>",
-              "customer_name": "John Doe",
+              "image": "shopify:\/\/shop_images\/royal_logo_2.jpg",
+              "testimonial_text": "<p>The Skulls made by The Skull Shoppe are truly second to none. The attention to detail, craftmanship, and care that goes into producing each one is evident throughout. This is what the work of a master craftsman looks like.<\/p>",
+              "customer_name": "Jonhenry R.",
               "link": "",
               "stars": 5
             }
@@ -372,8 +374,9 @@
           "testimonials-1": {
             "type": "text",
             "settings": {
-              "testimonial_text": "<p>\"Show off incredible feedback from your customers\"<\/p>",
-              "customer_name": "John Doe",
+              "image": "shopify:\/\/shop_images\/royal_logo_2.jpg",
+              "testimonial_text": "<p>I have purchased and used Skull Shoppe museum replicas for photo shoots. To date I have only been asked about owning a real skull. I laugh. The products from The Skull Shoppe are next level replicas. I recommend them highly and will continue to purchase from them.<\/p>",
+              "customer_name": "Michael M.",
               "link": "",
               "stars": 5
             }
@@ -381,8 +384,19 @@
           "testimonials-2": {
             "type": "text",
             "settings": {
-              "testimonial_text": "<p>\"Show off incredible feedback from your customers\"<\/p>",
-              "customer_name": "John Doe",
+              "image": "shopify:\/\/shop_images\/royal_logo_2.jpg",
+              "testimonial_text": "<p>Made with extreme attention to detail. These are some of the best replica skulls you can find. They are stained perfectly to achieve a realistic look. Perfect for art reference and display.<\/p>",
+              "customer_name": "Luke S.",
+              "link": "",
+              "stars": 5
+            }
+          },
+          "dd080d40-c20b-43a8-a75e-ed9eb05f5e93": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/royal_logo_2.jpg",
+              "testimonial_text": "<p>Been getting stuff from The Skull Shoppe for many years now and, every piece is unique and special in how it's crafted. I even have tons of magnets and wall hangers in addition to the skulls in both my home and business. If you love skulls-look no further!<\/p>",
+              "customer_name": "Matt C.",
               "link": "",
               "stars": 5
             }
@@ -391,7 +405,8 @@
         "block_order": [
           "testimonials-0",
           "testimonials-1",
-          "testimonials-2"
+          "testimonials-2",
+          "dd080d40-c20b-43a8-a75e-ed9eb05f5e93"
         ],
         "settings": {
           "colors": "white",
@@ -434,6 +449,7 @@
       },
       "image--gallery": {
         "type": "image--gallery",
+        "disabled": true,
         "blocks": {
           "gallery-0": {
             "type": "image",
@@ -502,6 +518,7 @@
       },
       "image--gallery-0": {
         "type": "image--gallery",
+        "disabled": true,
         "blocks": {
           "gallery-0-0": {
             "type": "image",
@@ -570,6 +587,20 @@
       },
       "blog--blog-posts": {
         "type": "blog--blog-posts",
+        "blocks": {
+          "b3be7968-4e4a-48e6-aa13-436d145e1f4c": {
+            "type": "article",
+            "settings": {
+              "blog_post_1": "news\/2022-conventions",
+              "blog_post_2": "",
+              "blog_post_3": "",
+              "blog_post_4": ""
+            }
+          }
+        },
+        "block_order": [
+          "b3be7968-4e4a-48e6-aa13-436d145e1f4c"
+        ],
         "settings": {
           "colors": "white",
           "title": "Skull Shoppe Blog",
@@ -584,16 +615,16 @@
           "advert-0": {
             "type": "text",
             "settings": {
-              "heading": "What makes you different",
-              "subheading": "Shout about your unique selling points",
+              "heading": "Price to Detail",
+              "subheading": "Nothing Compares",
               "link": ""
             }
           },
           "advert-1": {
             "type": "text",
             "settings": {
-              "heading": "What makes you different",
-              "subheading": "Shout about your unique selling points",
+              "heading": "Price to Detail",
+              "subheading": "Nothing Compares",
               "link": ""
             }
           }

@@ -1,1 +1,11 @@
 /* Place any CSS overrides in this file. */
+
+/* Bump down slideshow image */
+.slideshow-mobile-image {
+	padding-top: 30px;
+  	background: #000;
+}
+/* Remove top/bottom padding */
+.mobile-nav-bar-wrapper {
+	padding: 0;
+}
