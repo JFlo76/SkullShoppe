@@ -614,6 +614,7 @@
         "blocks": {
           "advert-0": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "Price to Detail",
               "subheading": "Nothing Compares",
@@ -640,7 +641,7 @@
       "footer--newsletter": {
         "type": "footer--newsletter",
         "settings": {
-          "show_section": true,
+          "show_section": false,
           "colors": "white",
           "newsletter_heading": "Join our Mailing List",
           "newsletter_description": ""
@@ -652,12 +653,13 @@
           "footer-0": {
             "type": "text",
             "settings": {
-              "title": "",
-              "richtext": ""
+              "title": "Contact:",
+              "richtext": "<p>sales@skullshoppe.com<\/p><p>403 N. Main St. Walbridge, OH 43465<\/p>"
             }
           },
           "footer-1": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "menu_title": "",
               "footer_linklist": "footer"
@@ -665,6 +667,7 @@
           },
           "footer-2": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "newsletter_title": "",
               "footer_newsletter_description": ""
@@ -685,7 +688,7 @@
         ],
         "settings": {
           "show_methods_of_payment": false,
-          "alignment": "left",
+          "alignment": "center",
           "footer_text": "",
           "show_locale_selector": true,
           "show_currency_selector": true
