@@ -591,8 +591,8 @@
           "b3be7968-4e4a-48e6-aa13-436d145e1f4c": {
             "type": "article",
             "settings": {
-              "blog_post_1": "monsterpalooza-2023\/2023-monsterpalooza",
-              "blog_post_2": "toledo-tattoo-festival-2023\/2023-toledo-tattoo-festival",
+              "blog_post_1": "toledo-tattoo-festival-2023\/2023-toledo-tattoo-festival",
+              "blog_post_2": "monsterpalooza-2023\/2023-monsterpalooza",
               "blog_post_3": "",
               "blog_post_4": ""
             }
@@ -791,6 +791,15 @@
         ],
         "settings": {
           "show_sidebar": true
+        }
+      },
+      "template--article": {
+        "type": "template--article",
+        "settings": {
+          "blog-sidebar-link": "",
+          "show_blog_tags": false,
+          "show_recent_posts": true,
+          "blog_show_date": true
         }
       }
     },
