@@ -654,7 +654,7 @@
             "type": "text",
             "settings": {
               "title": "Contact:",
-              "richtext": "<p>sales@skullshoppe.com<\/p><p>403 N. Main St. Walbridge, OH 43465<\/p>"
+              "richtext": "<p>sales@skullshoppe.com<br\/>403 N. Main St. Walbridge, OH 43465<br\/>567-312-4136<\/p>"
             }
           },
           "footer-1": {
